@@ -16,7 +16,7 @@
    foaf:primaryTopic <#sf> ;
    dc:creator <#sf> .
 
-<#ah> a foaf:Person ;
+<#sf> a foaf:Person ;
    rdfs:label "Sofia Capibara" ;
    rdfs:comment "Student of the DCC"@es , "estudiante del DCC"@es ;
    foaf:name "Sofia Capibara Chavez" ;
@@ -28,7 +28,7 @@
    foaf:knows <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me> ;
    foaf:interest dbr:Semantic_Web , dbr:Anime , dbr:Brutalist_architecture; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   social:likesMovie dbr:Sharknado , dbr:Sharktopus , dbr:Dinoshark , dbr:Mega_Shark_Versus_Giant_Octopus ;
+   social:likesMovie dbr:Princes_Mononoke , dbr:Grave_of_the_fireflies , dbr:Megamind , dbr:Shrek ;
    social:hasSpiritAnimal dbr:Capybara ;
    social:hasFavouritePlatonicSolid dbr:Icosahedron;
    foaf:nick "Sofi";

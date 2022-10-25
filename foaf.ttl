@@ -25,7 +25,7 @@
    foaf:age 22;
    foaf:img <https://t2.ea.ltmcdn.com/es/posts/5/8/1/cuidados_de_una_capibara_20185_orig.jpg> ;
    foaf:homepage <https://r.mtdv.me/YBBDa8IryP>;
-   foaf:knows <http://anakena.dcc.uchile.cl/~jasalas/web/foaf.ttl#me> ;
+   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah>,<https://raw.githubusercontent.com/Zelcris/lab9-Web-of-Data/main/foaf_cpirira.ttl#cpirira>, <http://raw.githubusercontent.com/JorgeCVuwu/watos/main/foaf.ttl#jcv> ;
    foaf:interest dbr:Semantic_Web , dbr:Anime , dbr:Brutalist_architecture; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    social:likesMovie dbr:Princes_Mononoke , dbr:Grave_of_the_fireflies , dbr:Megamind , dbr:Shrek ;
